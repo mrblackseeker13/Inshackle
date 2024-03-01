@@ -24,7 +24,7 @@ def unfollow_user(username):
         print(f"Error occurred while unfollowing {username}: {str(e)}")
 
 # List of celebrity IDs 
-celeb_ids = ["609627569", "552340015", "434239785"]
+celeb_ids = ["instagram", "cristiano", "leomessi"]
 
 # Follow each celebrity
 for celeb_id in celeb_ids:

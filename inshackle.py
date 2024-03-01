@@ -1,6 +1,6 @@
 
 import time
-import instaloader
+import instagram-python
 
 # Set the sleep time between follow and unfollow actions
 sleep_time = 10
